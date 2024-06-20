@@ -37,3 +37,4 @@
   <img src="https://streak-stats.demolab.com?user=technoShadeKid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="175" alt="streak graph"  />
 </div>
 
+![Snake animation](https://github.com/technoShadeKid/technoShadeKid/blob/output/github-contribution-grid-snake.svg)
