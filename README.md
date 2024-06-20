@@ -6,6 +6,7 @@
 ### Sobre mim
 [![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/esthertrombetta/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:esthergarcia.dev@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://girl-harsher.notion.site/Bem-vindo-a-e922a6f502dd4fdd86fa34c53f82b7c2?pvs=4)
 
 🔍 Toda a minha vida sonhei em ser uma cientista!
 
