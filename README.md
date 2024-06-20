@@ -1,8 +1,18 @@
-### Bem-vindo(a), visitante!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Esther;Bem+vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
+
+### Sua visita foi contabilizada...
 <div align="left"> <img src="https://profile-counter.glitch.me/technoShadeKid/count.svg?"  /> </div>
 
-## GitHub Status
+## Sobre mim
+[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/esthertrombetta/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:esthergarcia.dev@gmail.com)
 
+🔍 Toda a minha vida sonhei em ser uma cientista!
+
+🎲 Apaixonada por análise de dados, seus comos e porquês...
+
+
+## GitHub Status
 
 <div align="center">
   <a href="https://github.com/technoShadeKid">
