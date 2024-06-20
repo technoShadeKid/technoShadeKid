@@ -12,7 +12,7 @@
 
 🔍 Toda a minha vida sonhei em ser uma cientista!
 
-🎲 Apaixonada por análise de dados, seus comos e porquês...
+🎲 Fascinada por análise de dados, seus comos e porquês...
 
 
 
