@@ -10,8 +10,6 @@
 
 📘 Você pode encontrar mais informações sobre mim no meu portfólio, localizado no Badge [NOTION] acima ⏫
 
-🔍 Toda a minha vida sonhei em ser uma cientista!
-
 🎲 Fascinada por análise de dados, seus comos e porquês...
 
 
