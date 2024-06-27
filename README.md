@@ -10,9 +10,6 @@
 
 📘 Você pode encontrar mais informações sobre mim no meu portfólio, localizado no Badge [NOTION] acima ⏫
 
-🎲 Fascinada por análise de dados, seus comos e porquês...
-
-
 
 ### GitHub Status
 
