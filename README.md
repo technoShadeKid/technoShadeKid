@@ -8,8 +8,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:esthergarcia.dev@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://esthergarcia.notion.site/portfolio?pvs=73)
 
-📘 Você pode encontrar mais informações sobre mim no meu portfólio, localizado no Badge [NOTION] acima ⏫
-
 
 ### GitHub Status
 
